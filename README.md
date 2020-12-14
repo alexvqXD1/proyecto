@@ -1,2 +1,2 @@
 # proyecto
-Nicolas Vila Quispe
+Nicolas Vila Quispe Avance del proyecto
